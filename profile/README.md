@@ -1,4 +1,4 @@
-# Intersport Rent Austria
+# Intersport Rent
 
 Welcome to the official GitHub organization of **Intersport Rent Austria**.  
 Here we design, develop, and maintain digital solutions that power our rental ecosystem — from public APIs to web platforms — helping people explore the mountains and enjoy every moment outdoors.
