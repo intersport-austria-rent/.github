@@ -25,6 +25,3 @@ while delivering technology that connects people with the spirit of adventure.
 - [Intersport International](https://www.intersport.com)
 - [Contact us](mailto:contact@intersport.com)
 
----
-
-> _Built for performance, designed for the mountains._
